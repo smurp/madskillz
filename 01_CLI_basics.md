@@ -6,7 +6,7 @@ ll
 alias ll
 ls -a
 ls -l
-touch
+touch thingy.txt
 man ls
 apropos directory
 cat
@@ -14,5 +14,7 @@ mkdir
 rmdir
 rm 
 rm -fR
+ascii
+hexdump -cb thingy.txt
 
 ```
